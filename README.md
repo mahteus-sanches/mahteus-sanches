@@ -6,8 +6,9 @@
 - 😄 Pronouns: he/him/ele/dele
 - ⚡ Fun fact: (I like identation)
 
-##Language Usage
-https://github-readme-stats.vercel.app/api/top-langs/?username=mahteus-sanches&theme=synthwave
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahteus-sanches&theme=synthwave"/>
+</div>
 <!---
 mahteus-sanches/mahteus-sanches is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
