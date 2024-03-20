@@ -7,6 +7,16 @@
 - ⚡ Fun fact: (I like identation)
 
 <div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+</div>
+          
+          
+
+
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahteus-sanches&theme=synthwave"/>
 </div>
 <!---
